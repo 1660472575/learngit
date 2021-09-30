@@ -6,5 +6,6 @@ void mian()
 
 }
 
+void hello2();
 
 
