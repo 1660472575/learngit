@@ -1,2 +1,5 @@
 
 hellonlinux
+
+void func();
+
