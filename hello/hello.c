@@ -1,9 +1,14 @@
+#include"hello.h"
 
-hellonlinux
 
-void func();
+void func(){
+	printf("hello...");
+}
 
-void func1(void);
+void func1(void)
+{
+	printf("func1..");
+}
 
 void func2();
 

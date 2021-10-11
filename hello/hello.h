@@ -1,6 +1,9 @@
-include <hello.h>
-#include <myhello.h>
+#ifndef _HELLO_H_
+#define _HELLO_H_
 
-#include "Hello1.h"
 
 void func();
+
+void func1();
+
+#endif
